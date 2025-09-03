@@ -47,19 +47,31 @@ export default function BlogPortfolioSection() {
     {
       title: "Top 10 Cyber Security Practices in 2025",
       desc: "How to keep your systems secure – with practical examples.",
+<<<<<<< HEAD
       img: "/images/Cyber-Security.jpg",
+=======
+      img: "https://images.unsplash.com/photo-1611078481894-9d76c02d6f7b?crop=entropy&cs=tinysrgb&fit=max&h=400&w=600",
+>>>>>>> 2dd03a0ac644611d30512ece042c457aa8ce0e03
       category: "Cyber Security",
     },
     {
       title: "Modern Web Development Trends",
       desc: "React, Next.js, and AI-based tools developers should know.",
+<<<<<<< HEAD
       img: "/images/Top-Web-Development-Trends.jpg",
+=======
+      img: "https://images.unsplash.com/photo-1581091012184-7c1f53d2d3e4?crop=entropy&cs=tinysrgb&fit=max&h=400&w=600",
+>>>>>>> 2dd03a0ac644611d30512ece042c457aa8ce0e03
       category: "Development",
     },
     {
       title: "AI in Security",
       desc: "The use of AI in Cyber Security is growing day by day.",
+<<<<<<< HEAD
       img: "/images/AiSecurity.jpg",
+=======
+      img: "https://images.unsplash.com/photo-1611175694984-0e2c2a5f1b44?crop=entropy&cs=tinysrgb&fit=max&h=400&w=600",
+>>>>>>> 2dd03a0ac644611d30512ece042c457aa8ce0e03
       category: "AI",
     },
   ];
@@ -69,7 +81,11 @@ export default function BlogPortfolioSection() {
     {
       name: "CyberShield Tool",
       tech: "Node.js, Express, MongoDB",
+<<<<<<< HEAD
       img: "/images/CyberShield Tool.webp",
+=======
+      img: "https://images.unsplash.com/photo-1591696205602-d2716a3a1f2d?crop=entropy&cs=tinysrgb&fit=max&h=400&w=600",
+>>>>>>> 2dd03a0ac644611d30512ece042c457aa8ce0e03
       link: "#",
       category: "Security Tools",
     },
@@ -96,9 +112,15 @@ export default function BlogPortfolioSection() {
   const [projectFilter, setProjectFilter] = useState("All");
 
   return (
+<<<<<<< HEAD
     <div className="p-6 space-y-12  " id="Blog">
       {/* Blog Section */}
       <section className="">
+=======
+    <div className="p-6 space-y-12">
+      {/* Blog Section */}
+      <section>
+>>>>>>> 2dd03a0ac644611d30512ece042c457aa8ce0e03
         <h2 className="text-3xl font-bold mb-6 text-center text-gray-900">
           🔹 Latest Blogs
         </h2>

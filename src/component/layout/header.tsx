@@ -8,9 +8,15 @@ export default function Header() {
     <header className="bg-white shadow-md fixed w-full top-0 left-0 z-50">
       <div className="max-w-7xl mx-auto flex items-center justify-between px-4 py-3 md:py-4">
         {/* Logo */}
+<<<<<<< HEAD
         <div className="flex items-center rounded-4xl">
           <img
             src="./images/anwrulkarim-modified.png"
+=======
+        <div className="flex items-center">
+          <img
+            src="./images/anwrulkarim.jpg"
+>>>>>>> 2dd03a0ac644611d30512ece042c457aa8ce0e03
             alt="Logo"
             className="w-12 h-12 md:w-16 md:h-16 object-contain rounded-4xl"
           />
@@ -30,7 +36,11 @@ export default function Header() {
           <a href="#services" className="hover:text-blue-600">
             Services
           </a>
+<<<<<<< HEAD
           <a href="#Blog" className="hover:text-blue-600">
+=======
+          <a href="#blog" className="hover:text-blue-600">
+>>>>>>> 2dd03a0ac644611d30512ece042c457aa8ce0e03
             Blog
           </a>
           <a href="#contact" className="hover:text-blue-600">
