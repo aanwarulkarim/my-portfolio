@@ -81,7 +81,7 @@ export default function Home() {
               <Twitter size={28} />
             </a>
             <a
-              href="https://www.facebook.com/profile.php?id=100090871429446"
+              href=""
               target="_blank"
               className="text-gray-700 hover:text-blue-600"
             >

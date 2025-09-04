@@ -26,10 +26,10 @@ export default function Contact() {
           {/* Contact Info */}
           <div className="space-y-4">
             <p className="flex items-center gap-3 text-gray-700">
-              <Mail className="text-blue-600" size={20} /> hello@example.com
+              <Mail className="text-blue-600" size={20} /> dev.anwarul@gmai.com
             </p>
             <p className="flex items-center gap-3 text-gray-700">
-              <Phone className="text-blue-600" size={20} /> +880 1234-567890
+              <Phone className="text-blue-600" size={20} /> +880 1602867954
             </p>
             <p className="flex items-center gap-3 text-gray-700">
               <MapPin className="text-blue-600" size={20} /> Dhaka, Bangladesh
